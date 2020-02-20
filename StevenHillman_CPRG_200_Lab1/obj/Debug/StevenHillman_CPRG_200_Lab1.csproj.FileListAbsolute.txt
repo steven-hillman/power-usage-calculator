@@ -1,0 +1,81 @@
+C:\Users\618876\source\repos\StevenHillman_CPRG_200_Lab1\StevenHillman_CPRG_200_Lab1\bin\Debug\StevenHillman_CPRG_200_Lab1.exe.config
+C:\Users\618876\source\repos\StevenHillman_CPRG_200_Lab1\StevenHillman_CPRG_200_Lab1\bin\Debug\StevenHillman_CPRG_200_Lab1.exe
+C:\Users\618876\source\repos\StevenHillman_CPRG_200_Lab1\StevenHillman_CPRG_200_Lab1\bin\Debug\StevenHillman_CPRG_200_Lab1.pdb
+C:\Users\618876\source\repos\StevenHillman_CPRG_200_Lab1\StevenHillman_CPRG_200_Lab1\obj\Debug\StevenHillman_CPRG_200_Lab1.csprojAssemblyReference.cache
+C:\Users\618876\source\repos\StevenHillman_CPRG_200_Lab1\StevenHillman_CPRG_200_Lab1\obj\Debug\StevenHillman_CPRG_200_Lab1.Form1.resources
+C:\Users\618876\source\repos\StevenHillman_CPRG_200_Lab1\StevenHillman_CPRG_200_Lab1\obj\Debug\StevenHillman_CPRG_200_Lab1.Properties.Resources.resources
+C:\Users\618876\source\repos\StevenHillman_CPRG_200_Lab1\StevenHillman_CPRG_200_Lab1\obj\Debug\StevenHillman_CPRG_200_Lab1.csproj.GenerateResource.cache
+C:\Users\618876\source\repos\StevenHillman_CPRG_200_Lab1\StevenHillman_CPRG_200_Lab1\obj\Debug\StevenHillman_CPRG_200_Lab1.exe
+C:\Users\618876\source\repos\StevenHillman_CPRG_200_Lab1\StevenHillman_CPRG_200_Lab1\obj\Debug\StevenHillman_CPRG_200_Lab1.pdb
+C:\Users\Steven\source\repos\StevenHillman_CPRG_200_Lab1\StevenHillman_CPRG_200_Lab1\bin\Debug\StevenHillman_CPRG_200_Lab1.exe.config
+C:\Users\Steven\source\repos\StevenHillman_CPRG_200_Lab1\StevenHillman_CPRG_200_Lab1\bin\Debug\StevenHillman_CPRG_200_Lab1.exe
+C:\Users\Steven\source\repos\StevenHillman_CPRG_200_Lab1\StevenHillman_CPRG_200_Lab1\bin\Debug\StevenHillman_CPRG_200_Lab1.pdb
+C:\Users\Steven\source\repos\StevenHillman_CPRG_200_Lab1\StevenHillman_CPRG_200_Lab1\obj\Debug\StevenHillman_CPRG_200_Lab1.csprojAssemblyReference.cache
+C:\Users\Steven\source\repos\StevenHillman_CPRG_200_Lab1\StevenHillman_CPRG_200_Lab1\obj\Debug\StevenHillman_CPRG_200_Lab1.Form1.resources
+C:\Users\Steven\source\repos\StevenHillman_CPRG_200_Lab1\StevenHillman_CPRG_200_Lab1\obj\Debug\StevenHillman_CPRG_200_Lab1.Properties.Resources.resources
+C:\Users\Steven\source\repos\StevenHillman_CPRG_200_Lab1\StevenHillman_CPRG_200_Lab1\obj\Debug\StevenHillman_CPRG_200_Lab1.csproj.GenerateResource.cache
+C:\Users\Steven\source\repos\StevenHillman_CPRG_200_Lab1\StevenHillman_CPRG_200_Lab1\obj\Debug\StevenHillman_CPRG_200_Lab1.exe
+C:\Users\Steven\source\repos\StevenHillman_CPRG_200_Lab1\StevenHillman_CPRG_200_Lab1\obj\Debug\StevenHillman_CPRG_200_Lab1.pdb
+C:\Users\Steven\source\repos\StevenHillman_CPRG_200_Lab1\StevenHillman_CPRG_200_Lab1\bin\Debug\CustomerData.dll
+C:\Users\Steven\source\repos\StevenHillman_CPRG_200_Lab1\StevenHillman_CPRG_200_Lab1\bin\Debug\CustomerData.pdb
+C:\Users\Steven\source\repos\StevenHillman_CPRG_200_Lab1\StevenHillman_CPRG_200_Lab1\obj\Debug\StevenHillman_CPRG_200_Lab1.csproj.CopyComplete
+C:\Users\Steven\source\repos\StevenHillman_CPRG_200_Lab2\StevenHillman_CPRG_200_Lab1\bin\Debug\StevenHillman_CPRG_200_Lab1.exe.config
+C:\Users\Steven\source\repos\StevenHillman_CPRG_200_Lab2\StevenHillman_CPRG_200_Lab1\bin\Debug\StevenHillman_CPRG_200_Lab1.exe
+C:\Users\Steven\source\repos\StevenHillman_CPRG_200_Lab2\StevenHillman_CPRG_200_Lab1\bin\Debug\StevenHillman_CPRG_200_Lab1.pdb
+C:\Users\Steven\source\repos\StevenHillman_CPRG_200_Lab2\StevenHillman_CPRG_200_Lab1\bin\Debug\CustomerData.dll
+C:\Users\Steven\source\repos\StevenHillman_CPRG_200_Lab2\StevenHillman_CPRG_200_Lab1\bin\Debug\CustomerData.pdb
+C:\Users\Steven\source\repos\StevenHillman_CPRG_200_Lab2\StevenHillman_CPRG_200_Lab1\obj\Debug\StevenHillman_CPRG_200_Lab1.csprojAssemblyReference.cache
+C:\Users\Steven\source\repos\StevenHillman_CPRG_200_Lab2\StevenHillman_CPRG_200_Lab1\obj\Debug\StevenHillman_CPRG_200_Lab1.Form1.resources
+C:\Users\Steven\source\repos\StevenHillman_CPRG_200_Lab2\StevenHillman_CPRG_200_Lab1\obj\Debug\StevenHillman_CPRG_200_Lab1.Properties.Resources.resources
+C:\Users\Steven\source\repos\StevenHillman_CPRG_200_Lab2\StevenHillman_CPRG_200_Lab1\obj\Debug\StevenHillman_CPRG_200_Lab1.csproj.GenerateResource.cache
+C:\Users\Steven\source\repos\StevenHillman_CPRG_200_Lab2\StevenHillman_CPRG_200_Lab1\obj\Debug\StevenHillman_CPRG_200_Lab1.csproj.CopyComplete
+C:\Users\Steven\source\repos\StevenHillman_CPRG_200_Lab2\StevenHillman_CPRG_200_Lab1\obj\Debug\StevenHillman_CPRG_200_Lab1.exe
+C:\Users\Steven\source\repos\StevenHillman_CPRG_200_Lab2\StevenHillman_CPRG_200_Lab1\obj\Debug\StevenHillman_CPRG_200_Lab1.pdb
+C:\Users\618876\source\repos\StevenHillman_CPRG_200_Lab2\StevenHillman_CPRG_200_Lab1\bin\Debug\StevenHillman_CPRG_200_Lab1.exe.config
+C:\Users\618876\source\repos\StevenHillman_CPRG_200_Lab2\StevenHillman_CPRG_200_Lab1\bin\Debug\StevenHillman_CPRG_200_Lab1.exe
+C:\Users\618876\source\repos\StevenHillman_CPRG_200_Lab2\StevenHillman_CPRG_200_Lab1\bin\Debug\StevenHillman_CPRG_200_Lab1.pdb
+C:\Users\618876\source\repos\StevenHillman_CPRG_200_Lab2\StevenHillman_CPRG_200_Lab1\bin\Debug\CustomerData.dll
+C:\Users\618876\source\repos\StevenHillman_CPRG_200_Lab2\StevenHillman_CPRG_200_Lab1\bin\Debug\CustomerData.pdb
+C:\Users\618876\source\repos\StevenHillman_CPRG_200_Lab2\StevenHillman_CPRG_200_Lab1\obj\Debug\StevenHillman_CPRG_200_Lab1.csprojAssemblyReference.cache
+C:\Users\618876\source\repos\StevenHillman_CPRG_200_Lab2\StevenHillman_CPRG_200_Lab1\obj\Debug\StevenHillman_CPRG_200_Lab1.Form1.resources
+C:\Users\618876\source\repos\StevenHillman_CPRG_200_Lab2\StevenHillman_CPRG_200_Lab1\obj\Debug\StevenHillman_CPRG_200_Lab1.Properties.Resources.resources
+C:\Users\618876\source\repos\StevenHillman_CPRG_200_Lab2\StevenHillman_CPRG_200_Lab1\obj\Debug\StevenHillman_CPRG_200_Lab1.csproj.GenerateResource.cache
+C:\Users\618876\source\repos\StevenHillman_CPRG_200_Lab2\StevenHillman_CPRG_200_Lab1\obj\Debug\StevenHillman_CPRG_200_Lab1.csproj.CopyComplete
+C:\Users\618876\source\repos\StevenHillman_CPRG_200_Lab2\StevenHillman_CPRG_200_Lab1\obj\Debug\StevenHillman_CPRG_200_Lab1.exe
+C:\Users\618876\source\repos\StevenHillman_CPRG_200_Lab2\StevenHillman_CPRG_200_Lab1\obj\Debug\StevenHillman_CPRG_200_Lab1.pdb
+C:\Users\618876\Desktop\old labs\StevenHillman_CPRG_200_Lab2\StevenHillman_CPRG_200_Lab1\bin\Debug\StevenHillman_CPRG_200_Lab1.exe.config
+C:\Users\618876\Desktop\old labs\StevenHillman_CPRG_200_Lab2\StevenHillman_CPRG_200_Lab1\bin\Debug\StevenHillman_CPRG_200_Lab1.exe
+C:\Users\618876\Desktop\old labs\StevenHillman_CPRG_200_Lab2\StevenHillman_CPRG_200_Lab1\bin\Debug\StevenHillman_CPRG_200_Lab1.pdb
+C:\Users\618876\Desktop\old labs\StevenHillman_CPRG_200_Lab2\StevenHillman_CPRG_200_Lab1\bin\Debug\CustomerData.dll
+C:\Users\618876\Desktop\old labs\StevenHillman_CPRG_200_Lab2\StevenHillman_CPRG_200_Lab1\bin\Debug\CustomerData.pdb
+C:\Users\618876\Desktop\old labs\StevenHillman_CPRG_200_Lab2\StevenHillman_CPRG_200_Lab1\obj\Debug\StevenHillman_CPRG_200_Lab1.csprojAssemblyReference.cache
+C:\Users\618876\Desktop\old labs\StevenHillman_CPRG_200_Lab2\StevenHillman_CPRG_200_Lab1\obj\Debug\StevenHillman_CPRG_200_Lab1.Form1.resources
+C:\Users\618876\Desktop\old labs\StevenHillman_CPRG_200_Lab2\StevenHillman_CPRG_200_Lab1\obj\Debug\StevenHillman_CPRG_200_Lab1.Properties.Resources.resources
+C:\Users\618876\Desktop\old labs\StevenHillman_CPRG_200_Lab2\StevenHillman_CPRG_200_Lab1\obj\Debug\StevenHillman_CPRG_200_Lab1.csproj.GenerateResource.cache
+C:\Users\618876\Desktop\old labs\StevenHillman_CPRG_200_Lab2\StevenHillman_CPRG_200_Lab1\obj\Debug\StevenHillman_CPRG_200_Lab1.csproj.CopyComplete
+C:\Users\618876\Desktop\old labs\StevenHillman_CPRG_200_Lab2\StevenHillman_CPRG_200_Lab1\obj\Debug\StevenHillman_CPRG_200_Lab1.exe
+C:\Users\618876\Desktop\old labs\StevenHillman_CPRG_200_Lab2\StevenHillman_CPRG_200_Lab1\obj\Debug\StevenHillman_CPRG_200_Lab1.pdb
+C:\Users\Steven\Documents\GitHub\My-Labs\StevenHillman_CPRG_200_Lab2\StevenHillman_CPRG_200_Lab1\bin\Debug\StevenHillman_CPRG_200_Lab1.exe.config
+C:\Users\Steven\Documents\GitHub\My-Labs\StevenHillman_CPRG_200_Lab2\StevenHillman_CPRG_200_Lab1\bin\Debug\StevenHillman_CPRG_200_Lab1.exe
+C:\Users\Steven\Documents\GitHub\My-Labs\StevenHillman_CPRG_200_Lab2\StevenHillman_CPRG_200_Lab1\bin\Debug\StevenHillman_CPRG_200_Lab1.pdb
+C:\Users\Steven\Documents\GitHub\My-Labs\StevenHillman_CPRG_200_Lab2\StevenHillman_CPRG_200_Lab1\bin\Debug\CustomerData.dll
+C:\Users\Steven\Documents\GitHub\My-Labs\StevenHillman_CPRG_200_Lab2\StevenHillman_CPRG_200_Lab1\bin\Debug\CustomerData.pdb
+C:\Users\Steven\Documents\GitHub\My-Labs\StevenHillman_CPRG_200_Lab2\StevenHillman_CPRG_200_Lab1\obj\Debug\StevenHillman_CPRG_200_Lab1.csprojAssemblyReference.cache
+C:\Users\Steven\Documents\GitHub\My-Labs\StevenHillman_CPRG_200_Lab2\StevenHillman_CPRG_200_Lab1\obj\Debug\StevenHillman_CPRG_200_Lab1.Form1.resources
+C:\Users\Steven\Documents\GitHub\My-Labs\StevenHillman_CPRG_200_Lab2\StevenHillman_CPRG_200_Lab1\obj\Debug\StevenHillman_CPRG_200_Lab1.Properties.Resources.resources
+C:\Users\Steven\Documents\GitHub\My-Labs\StevenHillman_CPRG_200_Lab2\StevenHillman_CPRG_200_Lab1\obj\Debug\StevenHillman_CPRG_200_Lab1.csproj.GenerateResource.cache
+C:\Users\Steven\Documents\GitHub\My-Labs\StevenHillman_CPRG_200_Lab2\StevenHillman_CPRG_200_Lab1\obj\Debug\StevenHillman_CPRG_200_Lab1.csproj.CopyComplete
+C:\Users\Steven\Documents\GitHub\My-Labs\StevenHillman_CPRG_200_Lab2\StevenHillman_CPRG_200_Lab1\obj\Debug\StevenHillman_CPRG_200_Lab1.exe
+C:\Users\Steven\Documents\GitHub\My-Labs\StevenHillman_CPRG_200_Lab2\StevenHillman_CPRG_200_Lab1\obj\Debug\StevenHillman_CPRG_200_Lab1.pdb
+C:\Users\Steven\Documents\GitHub\My-Labs\Lab2\StevenHillman_CPRG_200_Lab1\bin\Debug\StevenHillman_CPRG_200_Lab1.exe.config
+C:\Users\Steven\Documents\GitHub\My-Labs\Lab2\StevenHillman_CPRG_200_Lab1\bin\Debug\StevenHillman_CPRG_200_Lab1.exe
+C:\Users\Steven\Documents\GitHub\My-Labs\Lab2\StevenHillman_CPRG_200_Lab1\bin\Debug\StevenHillman_CPRG_200_Lab1.pdb
+C:\Users\Steven\Documents\GitHub\My-Labs\Lab2\StevenHillman_CPRG_200_Lab1\bin\Debug\CustomerData.dll
+C:\Users\Steven\Documents\GitHub\My-Labs\Lab2\StevenHillman_CPRG_200_Lab1\bin\Debug\CustomerData.pdb
+C:\Users\Steven\Documents\GitHub\My-Labs\Lab2\StevenHillman_CPRG_200_Lab1\obj\Debug\StevenHillman_CPRG_200_Lab1.csprojAssemblyReference.cache
+C:\Users\Steven\Documents\GitHub\My-Labs\Lab2\StevenHillman_CPRG_200_Lab1\obj\Debug\StevenHillman_CPRG_200_Lab1.Form1.resources
+C:\Users\Steven\Documents\GitHub\My-Labs\Lab2\StevenHillman_CPRG_200_Lab1\obj\Debug\StevenHillman_CPRG_200_Lab1.Properties.Resources.resources
+C:\Users\Steven\Documents\GitHub\My-Labs\Lab2\StevenHillman_CPRG_200_Lab1\obj\Debug\StevenHillman_CPRG_200_Lab1.csproj.GenerateResource.cache
+C:\Users\Steven\Documents\GitHub\My-Labs\Lab2\StevenHillman_CPRG_200_Lab1\obj\Debug\StevenHillman_CPRG_200_Lab1.csproj.CopyComplete
+C:\Users\Steven\Documents\GitHub\My-Labs\Lab2\StevenHillman_CPRG_200_Lab1\obj\Debug\StevenHillman_CPRG_200_Lab1.exe
+C:\Users\Steven\Documents\GitHub\My-Labs\Lab2\StevenHillman_CPRG_200_Lab1\obj\Debug\StevenHillman_CPRG_200_Lab1.pdb

@@ -1,0 +1,25 @@
+C:\Users\Steven\source\repos\StevenHillman_CPRG_200_Lab1\CustomerData\bin\Debug\CustomerData.dll
+C:\Users\Steven\source\repos\StevenHillman_CPRG_200_Lab1\CustomerData\bin\Debug\CustomerData.pdb
+C:\Users\Steven\source\repos\StevenHillman_CPRG_200_Lab1\CustomerData\obj\Debug\CustomerData.csprojAssemblyReference.cache
+C:\Users\Steven\source\repos\StevenHillman_CPRG_200_Lab1\CustomerData\obj\Debug\CustomerData.dll
+C:\Users\Steven\source\repos\StevenHillman_CPRG_200_Lab1\CustomerData\obj\Debug\CustomerData.pdb
+C:\Users\Steven\source\repos\StevenHillman_CPRG_200_Lab2\CustomerData\bin\Debug\CustomerData.dll
+C:\Users\Steven\source\repos\StevenHillman_CPRG_200_Lab2\CustomerData\bin\Debug\CustomerData.pdb
+C:\Users\Steven\source\repos\StevenHillman_CPRG_200_Lab2\CustomerData\obj\Debug\CustomerData.csprojAssemblyReference.cache
+C:\Users\Steven\source\repos\StevenHillman_CPRG_200_Lab2\CustomerData\obj\Debug\CustomerData.dll
+C:\Users\Steven\source\repos\StevenHillman_CPRG_200_Lab2\CustomerData\obj\Debug\CustomerData.pdb
+C:\Users\618876\source\repos\StevenHillman_CPRG_200_Lab2\CustomerData\bin\Debug\CustomerData.dll
+C:\Users\618876\source\repos\StevenHillman_CPRG_200_Lab2\CustomerData\bin\Debug\CustomerData.pdb
+C:\Users\618876\source\repos\StevenHillman_CPRG_200_Lab2\CustomerData\obj\Debug\CustomerData.csprojAssemblyReference.cache
+C:\Users\618876\source\repos\StevenHillman_CPRG_200_Lab2\CustomerData\obj\Debug\CustomerData.dll
+C:\Users\618876\source\repos\StevenHillman_CPRG_200_Lab2\CustomerData\obj\Debug\CustomerData.pdb
+C:\Users\618876\Desktop\old labs\StevenHillman_CPRG_200_Lab2\CustomerData\bin\Debug\CustomerData.dll
+C:\Users\618876\Desktop\old labs\StevenHillman_CPRG_200_Lab2\CustomerData\bin\Debug\CustomerData.pdb
+C:\Users\618876\Desktop\old labs\StevenHillman_CPRG_200_Lab2\CustomerData\obj\Debug\CustomerData.csprojAssemblyReference.cache
+C:\Users\618876\Desktop\old labs\StevenHillman_CPRG_200_Lab2\CustomerData\obj\Debug\CustomerData.dll
+C:\Users\618876\Desktop\old labs\StevenHillman_CPRG_200_Lab2\CustomerData\obj\Debug\CustomerData.pdb
+C:\Users\Steven\Documents\GitHub\My-Labs\Lab2\CustomerData\bin\Debug\CustomerData.dll
+C:\Users\Steven\Documents\GitHub\My-Labs\Lab2\CustomerData\bin\Debug\CustomerData.pdb
+C:\Users\Steven\Documents\GitHub\My-Labs\Lab2\CustomerData\obj\Debug\CustomerData.csprojAssemblyReference.cache
+C:\Users\Steven\Documents\GitHub\My-Labs\Lab2\CustomerData\obj\Debug\CustomerData.dll
+C:\Users\Steven\Documents\GitHub\My-Labs\Lab2\CustomerData\obj\Debug\CustomerData.pdb

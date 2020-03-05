@@ -23,3 +23,8 @@ C:\Users\Steven\Documents\GitHub\My-Labs\Lab2\CustomerData\bin\Debug\CustomerDat
 C:\Users\Steven\Documents\GitHub\My-Labs\Lab2\CustomerData\obj\Debug\CustomerData.csprojAssemblyReference.cache
 C:\Users\Steven\Documents\GitHub\My-Labs\Lab2\CustomerData\obj\Debug\CustomerData.dll
 C:\Users\Steven\Documents\GitHub\My-Labs\Lab2\CustomerData\obj\Debug\CustomerData.pdb
+C:\Users\Steven\Documents\GitHub\power-usage-calculator\CustomerData\bin\Debug\CustomerData.dll
+C:\Users\Steven\Documents\GitHub\power-usage-calculator\CustomerData\bin\Debug\CustomerData.pdb
+C:\Users\Steven\Documents\GitHub\power-usage-calculator\CustomerData\obj\Debug\CustomerData.csprojAssemblyReference.cache
+C:\Users\Steven\Documents\GitHub\power-usage-calculator\CustomerData\obj\Debug\CustomerData.dll
+C:\Users\Steven\Documents\GitHub\power-usage-calculator\CustomerData\obj\Debug\CustomerData.pdb

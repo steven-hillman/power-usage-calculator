@@ -79,3 +79,15 @@ C:\Users\Steven\Documents\GitHub\My-Labs\Lab2\StevenHillman_CPRG_200_Lab1\obj\De
 C:\Users\Steven\Documents\GitHub\My-Labs\Lab2\StevenHillman_CPRG_200_Lab1\obj\Debug\StevenHillman_CPRG_200_Lab1.csproj.CopyComplete
 C:\Users\Steven\Documents\GitHub\My-Labs\Lab2\StevenHillman_CPRG_200_Lab1\obj\Debug\StevenHillman_CPRG_200_Lab1.exe
 C:\Users\Steven\Documents\GitHub\My-Labs\Lab2\StevenHillman_CPRG_200_Lab1\obj\Debug\StevenHillman_CPRG_200_Lab1.pdb
+C:\Users\Steven\Documents\GitHub\power-usage-calculator\StevenHillman_CPRG_200_Lab1\bin\Debug\StevenHillman_CPRG_200_Lab1.exe.config
+C:\Users\Steven\Documents\GitHub\power-usage-calculator\StevenHillman_CPRG_200_Lab1\bin\Debug\StevenHillman_CPRG_200_Lab1.exe
+C:\Users\Steven\Documents\GitHub\power-usage-calculator\StevenHillman_CPRG_200_Lab1\bin\Debug\StevenHillman_CPRG_200_Lab1.pdb
+C:\Users\Steven\Documents\GitHub\power-usage-calculator\StevenHillman_CPRG_200_Lab1\bin\Debug\CustomerData.dll
+C:\Users\Steven\Documents\GitHub\power-usage-calculator\StevenHillman_CPRG_200_Lab1\bin\Debug\CustomerData.pdb
+C:\Users\Steven\Documents\GitHub\power-usage-calculator\StevenHillman_CPRG_200_Lab1\obj\Debug\StevenHillman_CPRG_200_Lab1.csprojAssemblyReference.cache
+C:\Users\Steven\Documents\GitHub\power-usage-calculator\StevenHillman_CPRG_200_Lab1\obj\Debug\StevenHillman_CPRG_200_Lab1.Form1.resources
+C:\Users\Steven\Documents\GitHub\power-usage-calculator\StevenHillman_CPRG_200_Lab1\obj\Debug\StevenHillman_CPRG_200_Lab1.Properties.Resources.resources
+C:\Users\Steven\Documents\GitHub\power-usage-calculator\StevenHillman_CPRG_200_Lab1\obj\Debug\StevenHillman_CPRG_200_Lab1.csproj.GenerateResource.cache
+C:\Users\Steven\Documents\GitHub\power-usage-calculator\StevenHillman_CPRG_200_Lab1\obj\Debug\StevenHillman_CPRG_200_Lab1.csproj.CopyComplete
+C:\Users\Steven\Documents\GitHub\power-usage-calculator\StevenHillman_CPRG_200_Lab1\obj\Debug\StevenHillman_CPRG_200_Lab1.exe
+C:\Users\Steven\Documents\GitHub\power-usage-calculator\StevenHillman_CPRG_200_Lab1\obj\Debug\StevenHillman_CPRG_200_Lab1.pdb
